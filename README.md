@@ -1,3 +1,5 @@
-# steganography decoder
-<p>This was a project for my python class. It decodes RGB images with two bits of encoding. <p>
-<p>I plan to improve this to allow for encoding and decoding using any number of bit shifts. <p>
+# Steganography Decoder and Encoder
+
+<h1>This code can decode and encode RGB images with any number of bit shiftings. <h1>
+<p>If you are encoding an image into other image you should make sure that they have the same dimensions<p>
+<p>Make sure to write the image extention when writing its name<p>
